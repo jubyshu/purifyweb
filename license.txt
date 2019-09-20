@@ -1,0 +1,29 @@
+[adblock plus 3.0]
+! title: purify web
+! homepage: https://github.com/jubyshu/purifyweb
+! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
+! expires: 5 days
+! version: 2019.09.20
+
+! https://www.instagram.com
+www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
+www.instagram.com##.Xt-CQ
+
+! https://www.douban.com
+||ad.doubanio.com/$subdocument
+www.douban.com###dale_subject_search_top_right > div
+! https://movie.douban.com
+movie.douban.com###dale_movie_subject_middle_right > div
+movie.douban.com###dale_movie_subject_top_right > div
+movie.douban.com###dale_movie_subject_bottom_super_banner > div
+! https://book.douban.com
+book.douban.com###dale_book_subject_top_right > div
+book.douban.com###dale_book_subject_middle_right > div
+book.douban.com###dale_book_subject_bottom_super_banner > div
+! https://music.douban.com
+music.douban.com###dale_music_home_top_right > div
+music.douban.com###dale_music_subject_top_right > div
+music.douban.com###dale_music_subject_middle_right > div
+
+! https://www.reddit.com
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
