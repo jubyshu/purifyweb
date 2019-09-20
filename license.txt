@@ -27,3 +27,36 @@ music.douban.com###dale_music_subject_middle_right > div
 
 ! https://www.reddit.com
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+
+! https://bbs.hupu.com
+bbs.hupu.com##.shihuo_photo_news
+
+! https://www.economist.com
+www.economist.com##.ribbon__banner
+www.economist.com##.ribbon__body
+www.economist.com##.ribbon__header
+www.economist.com##.newsletter-form--inline.newsletter-form
+www.economist.com##.end-of-article-grey-template__body
+
+! 9/20/2019 https://www.newyorker.com
+www.newyorker.com##.GrowlerFailsafe__expanded___e0wfF.GrowlerFailsafe__growlerWrapper___24tCW
+||www.newyorker.com/images/CM/failsafe/cns/NYR_Rightrail_Sept18_Failsafe*.png$image
+||www.newyorker.com/images/CM/failsafe/cns/NYR_Footer_Sept18_Failsafe*.png$image
+||www.newyorker.com/images/CM/failsafe/cns/NYR_Contentriver_Sept18_Failsafe*.png$image
+||www.newyorker.com/images/CM/failsafe/cns/NYR_Header_Sept18_Failsafe*.png$image
+www.newyorker.com##.Paywall__show___yW09h.Paywall__barrier___1LkDX
+
+! 9/20/2019 https://medium.com
+medium.com###mediumUnlimited
+
+! 9/20/2019 https://www.zhibo8.cc
+www.zhibo8.cc##.margin_top_20.container
+www.zhibo8.cc##.right.bbs_container
+
+! 9/20/2019 https://www.zhihu.com
+www.zhihu.com##.AppBanner-layout
+www.zhihu.com##.Question-sideColumnAdContainer
+www.zhihu.com##.Sticky > div.Card:nth-of-type(2)
+www.zhihu.com##div.Card:nth-of-type(5)
+www.zhihu.com##.is-fixed.Sticky > div:nth-of-type(8)
+www.zhihu.com##div.Card:nth-of-type(6)
