@@ -3,7 +3,7 @@
 ! homepage: https://github.com/jubyshu/purifyweb
 ! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.09.20
+! version: 2019.08.31
 
 ! https://www.instagram.com
 www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
@@ -25,9 +25,6 @@ music.douban.com###dale_music_home_top_right > div
 music.douban.com###dale_music_subject_top_right > div
 music.douban.com###dale_music_subject_middle_right > div
 
-! https://www.reddit.com
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-
 ! https://bbs.hupu.com
 bbs.hupu.com##.shihuo_photo_news
 
@@ -48,6 +45,7 @@ www.newyorker.com##.Paywall__show___yW09h.Paywall__barrier___1LkDX
 
 ! 9/20/2019 https://medium.com
 medium.com###mediumUnlimited
+towardsdatascience.com###mediumUnlimited
 
 ! 9/20/2019 https://www.zhibo8.cc
 www.zhibo8.cc##.margin_top_20.container
@@ -56,7 +54,10 @@ www.zhibo8.cc##.right.bbs_container
 ! 9/20/2019 https://www.zhihu.com
 www.zhihu.com##.AppBanner-layout
 www.zhihu.com##.Question-sideColumnAdContainer
-www.zhihu.com##.Sticky > div.Card:nth-of-type(2)
-www.zhihu.com##div.Card:nth-of-type(5)
-www.zhihu.com##.is-fixed.Sticky > div:nth-of-type(8)
-www.zhihu.com##div.Card:nth-of-type(6)
+
+! 9/21/2019 https://sm.ms
+sm.ms##.detail-advert
+sm.ms##.advert_foot.col-lg-6
+
+! 9/21/2019 https://www.douyu.com
+www.douyu.com##.is-show.ActBase.ActSuperFansGroup
