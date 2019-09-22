@@ -3,7 +3,7 @@
 ! homepage: https://github.com/jubyshu/purifyweb
 ! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.08.31
+! version: 2019.09.22
 
 ! https://www.instagram.com
 www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
@@ -24,9 +24,15 @@ book.douban.com###dale_book_subject_bottom_super_banner > div
 music.douban.com###dale_music_home_top_right > div
 music.douban.com###dale_music_subject_top_right > div
 music.douban.com###dale_music_subject_middle_right > div
+! 9/22/2019 https://www.douban.com
+www.douban.com###dale_group_topic_new_top_right
+www.douban.com###dale_group_topic_new_bottom_right
+www.douban.com###dale_group_topic_bottom_super_banner
 
 ! https://bbs.hupu.com
 bbs.hupu.com##.shihuo_photo_news
+! 9/22/2019 https://m.hupu.com
+m.hupu.com##.m-app
 
 ! https://www.economist.com
 www.economist.com##.ribbon__banner
@@ -50,10 +56,17 @@ towardsdatascience.com###mediumUnlimited
 ! 9/20/2019 https://www.zhibo8.cc
 www.zhibo8.cc##.margin_top_20.container
 www.zhibo8.cc##.right.bbs_container
+! 9/22/2019 https://www.zhihu.com
+www.zhihu.com###special
+! 9/22/2019 https://www.zhihu.com
+www.zhihu.com##div.Card:nth-of-type(2)
+www.zhihu.com##div.Card:nth-of-type(5)
 
 ! 9/20/2019 https://www.zhihu.com
 www.zhihu.com##.AppBanner-layout
 www.zhihu.com##.Question-sideColumnAdContainer
+! 9/22/2019 https://www.zhihu.com
+www.zhihu.com##.is-shown.OpenInApp.OpenInAppButton
 
 ! 9/21/2019 https://sm.ms
 sm.ms##.detail-advert
@@ -61,3 +74,47 @@ sm.ms##.advert_foot.col-lg-6
 
 ! 9/21/2019 https://www.douyu.com
 www.douyu.com##.is-show.ActBase.ActSuperFansGroup
+
+! 9/22/2019 https://sports.qq.com
+sports.qq.com##.play_fix.clearfix.videocont
+
+! 9/22/2019 https://v2ex.com
+v2ex.com###Rightbar > div.box:nth-of-type(4)
+v2ex.com###Rightbar > div.box:nth-of-type(6)
+
+! 9/22/2019 https://www.nytimes.com
+www.nytimes.com##.css-zh9j4b
+www.nytimes.com##.egw6tc40.css-b5hohh
+www.nytimes.com##.ejw0p350.css-9ghvn0
+www.nytimes.com##.e1x0szx60.css-16r57cp.standard.shown.meter_default
+www.nytimes.com##.css-1k9ek97
+
+! 9/22/2019 https://cn.nytimes.com
+cn.nytimes.com##.ribbon-show.article-ribbon
+cn.nytimes.com###subscribe_cont
+cn.nytimes.com###subscribe_mobile_cont
+
+! 9/22/2019 https://www.wsj.com
+www.wsj.com###cx-candybar-wrapper
+www.wsj.com##.style--secure-drop-tips--lOKwoM1i
+www.wsj.com###cx-articlecover
+www.wsj.com##.article__inset--wrap.article__inset--type-InsetRichText.article__inset.scope-web.wrap.type-InsetRichText.media-object
+
+! 9/22/2019 https://www.meiju.net
+www.meiju.net###layui-layer1
+
+! 9/22/2019 https://www.vanityfair.com
+www.vanityfair.com##.paywall-bar__expanded
+www.vanityfair.com##.persistent-bottom
+
+! 9/22/2019 https://www.bloomberg.com
+www.bloomberg.com###paywall-banner
+www.bloomberg.com##.open-zipr.zipr-recirc__under-navi--desktop.zipr-recirc
+
+! 9/22/2019 https://www.caixinglobal.com
+www.caixinglobal.com##.down-app-box
+
+! 9/22/2019 https://www.wired.com
+www.wired.com##.persistent-bottom
+www.wired.com##.display-hero-failsafe
+www.wired.com##div.row:nth-of-type(6)
