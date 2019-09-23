@@ -2,8 +2,8 @@
 ! title: purify web
 ! homepage: https://github.com/jubyshu/purifyweb
 ! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
-! expires: 5 days
-! version: 2019.09.22
+! expires: 7 days
+! version: 2019.09.24
 
 ! https://www.instagram.com
 www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
@@ -33,6 +33,7 @@ www.douban.com###dale_group_topic_bottom_super_banner
 bbs.hupu.com##.shihuo_photo_news
 ! 9/22/2019 https://m.hupu.com
 m.hupu.com##.m-app
+m.hupu.com###J_live_container
 
 ! https://www.economist.com
 www.economist.com##.ribbon__banner
@@ -51,7 +52,7 @@ www.newyorker.com##.Paywall__show___yW09h.Paywall__barrier___1LkDX
 
 ! 9/20/2019 https://medium.com
 medium.com###mediumUnlimited
-towardsdatascience.com###mediumUnlimited
+###mediumUnlimited
 
 ! 9/20/2019 https://www.zhibo8.cc
 www.zhibo8.cc##.margin_top_20.container
@@ -118,3 +119,80 @@ www.caixinglobal.com##.down-app-box
 www.wired.com##.persistent-bottom
 www.wired.com##.display-hero-failsafe
 www.wired.com##div.row:nth-of-type(6)
+
+! 9/22/2019 https://m.hupu.com
+m.hupu.com##.open-app
+
+! 9/23/2019 https://www.reddit.com
+www.reddit.com##.TopButton
+www.reddit.com##.XPromoPill
+www.reddit.com##li.OverlayMenu-row:nth-of-type(8) > .OverlayMenu-row-button
+
+! 9/23/2019 https://m.facebook.com
+m.facebook.com###login_top_banner
+m.facebook.com##._3on5._55wo
+
+! 9/23/2019 https://music.163.com
+music.163.com##.topfr
+music.163.com##.openapp
+
+! 9/23/2019 https://m.bilibili.com
+m.bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+m.bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
+
+! 9/23/2019 https://m.douyu.com
+m.douyu.com##.HomeFooter-downLoadClient
+m.douyu.com##.HomeHeader-openAppB
+
+! 9/23/2019 https://www.douyu.com
+www.douyu.com##.is-show.AppFlow
+www.douyu.com###js-aside
+www.douyu.com##.is-show.ActBase.Act159742
+www.douyu.com##.Bottom-ad
+www.douyu.com###guess-main-panel
+www.douyu.com###js-bottom
+www.douyu.com##.Title-roomOtherBottom
+www.douyu.com##.PlayerToolbar-reactGroup
+www.douyu.com##.ToolbarActivityArea
+www.douyu.com##.ToolbarGiftArea
+www.douyu.com##.PlayerToolbar-signCont
+www.douyu.com##.Header-download-wrap
+www.douyu.com##li.Header-menu-link:nth-of-type(5)
+www.douyu.com##li.Header-menu-link:nth-of-type(6)
+www.douyu.com###js-main
+www.douyu.com##.is-show.Elevator
+www.douyu.com###js-footer
+www.douyu.com###js-right-nav
+www.douyu.com##.is-active.UPlayerLotteryEnter
+www.douyu.com##.Title-videoSiteLink
+www.douyu.com##.LotteryContainer
+www.douyu.com##.HeaderNav
+www.douyu.com##.is-normalRoom.guessGameContainer
+
+! 9/23/2019 https://www.bilibili.com
+www.bilibili.com###fixed_app_download
+www.bilibili.com##.clearfix.live-module > .gg-floor-module
+www.bilibili.com##.mobile.nav-item
+! 9/23/2019 https://search.bilibili.com
+search.bilibili.com##.mobile.nav-item
+
+! 9/23/2019 https://search.jd.com
+search.jd.com##.m-aside
+search.jd.com###footmark
+! 9/23/2019 https://www.jd.com
+www.jd.com##.mobile_static
+www.jd.com###J_mobile
+
+! 9/24/2019 https://www.taobao.com
+www.taobao.com###J_Banner
+www.taobao.com##.logo-hover
+www.taobao.com##.qr
+s.taobao.com###J_shopkeeper_bottom
+
+! 9/24/2019 https://www.tmall.com
+www.tmall.com##.j_doodleLink
+www.tmall.com##.activity-bg
+www.tmall.com###J_FloorCNXH
+www.tmall.com###footer
+! 9/24/2019 https://chaoshi.tmall.com
+chaoshi.tmall.com##.j_MostTop
