@@ -3,7 +3,7 @@
 ! homepage: https://github.com/jubyshu/purifyweb
 ! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
 ! expires: 7 days
-! version: 2019.09.24
+! version: 2019.09.27
 
 ! https://www.instagram.com
 www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
@@ -196,3 +196,72 @@ www.tmall.com###J_FloorCNXH
 www.tmall.com###footer
 ! 9/24/2019 https://chaoshi.tmall.com
 chaoshi.tmall.com##.j_MostTop
+
+! 9/24/2019 https://music.163.com
+music.163.com##.lst
+
+! 9/24/2019 https://y.qq.com
+y.qq.com##.popup_guide
+y.qq.com##.top_nav__item--subnav.top_nav__item
+
+! 9/24/2019 https://weibo.com
+weibo.com##.clearfix.mini
+
+! 9/24/2019 https://www.douyu.com
+www.douyu.com##.recommendApp-0e23eb
+www.douyu.com##.recommendAD-54569e
+
+! 9/24/2019 https://www.newyorker.com
+www.newyorker.com##.Layout__sidebar___2GcEE
+
+! 9/24/2019 https://pan.baidu.com
+pan.baidu.com###web-single-bottom
+pan.baidu.com###web-right-view
+
+! 9/26/2019 https://bbs.nga.cn
+bbs.nga.cn###m_cate5 > .w100 > div:nth-of-type(1)
+bbs.nga.cn###b_nav > div:nth-of-type(2)
+bbs.nga.cn###m_posts_c > span
+bbs.nga.cn##.null
+bbs.nga.cn##.w100 > span:nth-of-type(1)
+
+! 9/26/2019 https://www.r-bloggers.com
+www.r-bloggers.com##.fancybox-skin
+
+! 9/26/2019 https://www.collinsdictionary.com
+www.collinsdictionary.com##.qc-cmp-showing.qc-cmp-ui-container
+
+! 9/26/2019 https://dictionary.cambridge.org
+dictionary.cambridge.org##.cdo-promo.lbt
+
+! 9/27/2019 https://www.newyorker.com
+www.newyorker.com##section.SoloPromoSection__promoWrapper___2zsVH:nth-of-type(3) > .SoloPromoSection__promoColumn___1LgrN
+www.newyorker.com##section.SoloPromoSection__promoWrapper___2zsVH:nth-of-type(6) > .SoloPromoSection__promoColumn___1LgrN
+www.newyorker.com##.MainHeader__subscribeLink___3TGEc
+
+! 9/27/2019 https://www.nytimes.com
+www.nytimes.com##.css-qbefct
+
+! 9/27/2019 https://www.quora.com
+www.quora.com###__w2_wzDvxNwr2_view_in_app
+www.quora.com###__w2_wdiDvVFS3_view_in_app
+
+! 9/27/2019 https://www.huya.com
+www.huya.com###J_hySide
+www.huya.com##.clearfix.mod-game-type
+www.huya.com##.clearfix.mod-news-section
+www.huya.com##.clearfix.mod-index-recommend.mod-index-list
+www.huya.com###wrap-recGameLive
+www.huya.com##div.mod-index-list:nth-of-type(6)
+www.huya.com##.mod-actlist
+www.huya.com##.huya-footer
+www.huya.com##.sidebar-show
+www.huya.com##.sidebar-hide
+www.huya.com##.nav-comp-wrap
+www.huya.com###matchComponent2
+www.huya.com###match-cms-content
+www.huya.com###J_listAdx
+www.huya.com###J_spbg
+www.huya.com##.ui-popup-focus.ui-popup-show.ui-popup-modal.ui-popup
+www.huya.com##body > div:nth-of-type(5)
+www.huya.com##.box-recom
