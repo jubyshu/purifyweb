@@ -3,7 +3,7 @@
 ! homepage: https://github.com/jubyshu/purifyweb
 ! licence: https://github.com/jubyshu/purifyweb/blob/master/license.txt
 ! expires: 7 days
-! version: 2019.09.27
+! version: 2019.10.05
 
 ! https://www.instagram.com
 www.instagram.com##.ZUqME.b2rUF._49XvD._22l1._4EzTm.eGOV_.IwRSH.Igw0E.DPiy6._6Rvw2
@@ -168,6 +168,18 @@ www.douyu.com##.Title-videoSiteLink
 www.douyu.com##.LotteryContainer
 www.douyu.com##.HeaderNav
 www.douyu.com##.is-normalRoom.guessGameContainer
+! 9/29/2019 https://www.douyu.com
+www.douyu.com##.MatchSystemGuide
+! 9/30/2019 https://www.douyu.com
+www.douyu.com##.FirePowerChatModal-Notice
+! 10/2/2019 https://www.douyu.com
+www.douyu.com###bc4 > .wm-h5-view
+www.douyu.com##.ad-box-f661ba
+! 9/27/2019 https://www.douyu.com
+www.douyu.com##.Barrage-chat-ad.RoomChat.SignBaseComponent-sign-box
+! 9/24/2019 https://www.douyu.com
+www.douyu.com##.recommendApp-0e23eb
+www.douyu.com##.recommendAD-54569e
 
 ! 9/23/2019 https://www.bilibili.com
 www.bilibili.com###fixed_app_download
@@ -206,10 +218,6 @@ y.qq.com##.top_nav__item--subnav.top_nav__item
 
 ! 9/24/2019 https://weibo.com
 weibo.com##.clearfix.mini
-
-! 9/24/2019 https://www.douyu.com
-www.douyu.com##.recommendApp-0e23eb
-www.douyu.com##.recommendAD-54569e
 
 ! 9/24/2019 https://www.newyorker.com
 www.newyorker.com##.Layout__sidebar___2GcEE
@@ -265,3 +273,43 @@ www.huya.com###J_spbg
 www.huya.com##.ui-popup-focus.ui-popup-show.ui-popup-modal.ui-popup
 www.huya.com##body > div:nth-of-type(5)
 www.huya.com##.box-recom
+
+! 9/27/2019 https://m.huya.com
+m.huya.com##.u-btn-down.header-app-btn
+m.huya.com##.pop-download
+m.huya.com##.u-btn-down.start-btn
+
+! 9/27/2019 https://www.jiemian.com
+www.jiemian.com##.jm-app
+
+! 9/28/2019 http://stream-cr7.net
+stream-cr7.net##.navbar-header
+stream-cr7.net##.hidden-xs
+
+! 9/29/2019 https://aeon.co
+aeon.co##.support-bar
+aeon.co##.newsletter-signup--wide.newsletter-signup
+aeon.co##.gutter > .newsletter-signup
+
+! 9/30/2019 https://www.rd.com
+www.rd.com##.in-content
+
+! 9/30/2019 https://convertio.co
+convertio.co##.rate-us
+
+! 9/30/2019 https://web.shanbay.com
+web.shanbay.com##.Footer_footerWrap__L4iuD
+
+! 10/2/2019 https://matome.naver.jp
+matome.naver.jp###yads_pc_overlay
+
+! 10/2/2019 https://aeon.co
+aeon.co##.banner-theme-dark-blue.header-banner
+aeon.co##.banner-theme-dark-blue.footer-banner
+! 10/4/2019 https://aeon.co
+aeon.co##.banner-theme-default.footer-banner
+! 10/5/2019 https://aeon.co
+aeon.co##.banner-theme-default.header-banner
+
+! 10/5/2019 https://www.reddit.com
+www.reddit.com##.mSmall.XPromoAdFeed
