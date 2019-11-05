@@ -254,26 +254,6 @@ www.nytimes.com##.css-qbefct
 www.quora.com###__w2_wzDvxNwr2_view_in_app
 www.quora.com###__w2_wdiDvVFS3_view_in_app
 
-! 9/27/2019 https://www.huya.com
-www.huya.com###J_hySide
-www.huya.com##.clearfix.mod-game-type
-www.huya.com##.clearfix.mod-news-section
-www.huya.com##.clearfix.mod-index-recommend.mod-index-list
-www.huya.com###wrap-recGameLive
-www.huya.com##div.mod-index-list:nth-of-type(6)
-www.huya.com##.mod-actlist
-www.huya.com##.huya-footer
-www.huya.com##.sidebar-show
-www.huya.com##.sidebar-hide
-www.huya.com##.nav-comp-wrap
-www.huya.com###matchComponent2
-www.huya.com###match-cms-content
-www.huya.com###J_listAdx
-www.huya.com###J_spbg
-www.huya.com##.ui-popup-focus.ui-popup-show.ui-popup-modal.ui-popup
-www.huya.com##body > div:nth-of-type(5)
-www.huya.com##.box-recom
-
 ! 9/27/2019 https://m.huya.com
 m.huya.com##.u-btn-down.header-app-btn
 m.huya.com##.pop-download
@@ -313,3 +293,26 @@ aeon.co##.banner-theme-default.header-banner
 
 ! 10/5/2019 https://www.reddit.com
 www.reddit.com##.mSmall.XPromoAdFeed
+
+! 10/5/2019 https://www.newyorker.com
+www.newyorker.com###signup-mainHeaderNewsletter
+
+! 10/5/2019 https://pan.baidu.com
+pan.baidu.com##.swal-overlay--show-modal.swal-overlay
+
+! 10/20/2019 https://www.douban.com
+www.douban.com###dale_homepage_login_top_right > div
+www.douban.com###dale_homepage_login_bottom_right > div
+
+! 10/22/2019 https://m.hupu.com
+m.hupu.com###tbhb15636041902100162
+
+! 10/24/2019 http://job.nju.edu.cn
+job.nju.edu.cn##.ng-scope > div.ng-scope:nth-of-type(5)
+
+! 10/25/2019 https://medium.com
+medium.com##.js-upgradeMembershipAction.u-xs-hide.u-baseColor--buttonNormal.button--withChrome.button--upsellNav.button--small.button
+medium.com##.js-upgradeMembershipAction.u-accentColor--buttonDark.button--chromeless.button--dark.button--primary.button
+
+! 10/29/2019 https://m.hupu.com
+||shihuo.hupucdn.com/1111/hupu_01.png$image
