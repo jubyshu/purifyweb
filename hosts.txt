@@ -21,3 +21,8 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 qingse.one
 0.0.0.0 www.mzitu.com
+0.0.0.0 www.7mshipin.com
+0.0.0.0 www.haobailian.com
+0.0.0.0 www.avtb01.com
+0.0.0.0 zzhgcjx.com
+0.0.0.0 28gaogg.com
