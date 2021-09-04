@@ -26,3 +26,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.avtb01.com
 0.0.0.0 zzhgcjx.com
 0.0.0.0 28gaogg.com
+0.0.0.0 seqing001.com
+0.0.0.0 weav.xyz
+0.0.0.0 recqb.xyz
+0.0.0.0 40maoee.com
+0.0.0.0 67maoxx.com
+0.0.0.0 aqdmv09.com
+0.0.0.0 tom507.com
+0.0.0.0 cmdh.me
+0.0.0.0 11maonn.com
+0.0.0.0 zhazhijiav.top
+0.0.0.0 www.qx192.com
+0.0.0.0 44maott.com
+0.0.0.0 aqdmv23.com
+0.0.0.0 www.redu6.com
